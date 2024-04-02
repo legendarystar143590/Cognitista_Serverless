@@ -3,3 +3,4 @@ venv/
 uploads/*
 !uploads/.keep
 db.sqlite3
+nohup.out
