@@ -1,0 +1,5 @@
+.env
+venv/
+uploads/*
+!uploads/.keep
+db.sqlite3
